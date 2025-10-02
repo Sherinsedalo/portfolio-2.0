@@ -10,7 +10,8 @@ export const NavBar: React.FC = () => {
         <header css={css`
         padding: 1rem;
         background: #fff;
-        border-bottom: 1px solid #eee`}>
+        border-bottom: 1px solid #eee;
+        `}>
             <nav css={css`
                 display:flex;
                 align-item:center;
